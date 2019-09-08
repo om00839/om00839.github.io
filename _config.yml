@@ -109,7 +109,7 @@ author:
   avatar: "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "연세대학교 문헌정보학과"
   location: "서울특별시, 대한민국"
-  email: om00839@gmail.com
+  email: # om00839@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
